@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Samsung Galaxy Z Flip3 5G 128GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367325/pq8zmxgof7xyag7dg0dm.jpg",
+      "content": "Một biểu tượng thời trang, một kiệt tác của thế giới công nghệ mà ai cũng phải kinh ngạc khi nhìn thấy Samsung Galaxy Z Flip3 5G và cách mà bạn sử dụng siêu phẩm smartphone này, nơi công nghệ điện thoại màn hình gập đã mang đến những điều không tưởng.",
+      "date": "2022-02-18",
+      "desc": "Chắc chắn không ai có thể cưỡng lại vẻ đẹp của Samsung Galaxy Z Flip3 5G. Một chiếc điện thoại gập có kích thước siêu nhỏ gọn và đầy đáng yêu với dạng hình vuông, chỉ nhỏ bằng phân nửa điện thoại thông thường.\n\nKiểu dáng khác biệt, vật liệu cao cấp và cách phối màu tinh tế giúp Galaxy Z Flip3 5G nhìn giống một món đồ trang sức hơn là một sản phẩm công nghệ. Bạn sẽ có 4 phiên bản màu sắc đầy cá tính để lựa chọn là Kem Ivory, Đen Phantom, Xanh Phantom và Tím Lilac."
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy Note 20 Ultra ",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367362/ivrmqsk7pdhmtuajkmkr.jpg",
+      "content": "Đặc điểm nổi bật của Samsung Galaxy Note 20 Ultra",
+      "date": "2022-02-18",
+      "desc": "Chiếc Galaxy Note màn hình lớn nhất, bút S Pen thông minh nhất và những tính năng mạnh mẽ nhất đã xuất hiện. Samsung Galaxy Note 20 Ultra sẽ định nghĩa lại smartphone, thay đổi những trải nghiệm của bạn theo cách thú vị hơn bao giờ hết."
+    },
+    {
+      "title": "iPhone 13 Pro Max 128GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367477/gp3wsy1hm0wh47l1b0ec.jpg",
+      "content": "Đặc điểm nổi bật của iPhone 13 Pro Max",
+      "date": "2022-02-20",
+      "desc": "Dù là giải trí khi xem phim, chơi game hay kiểm tra email, đọc tài liệu thì màn hình lớn tới 6,7 inch của iPhone 13 Pro Max cũng luôn cho trải nghiệm tuyệt vời nhất.\n\nKhông chỉ lớn, đây còn là màn hình chất lượng hàng đầu thế giới smartphone với tấm nền OLED tuyệt đẹp, công nghệ Super Retina XDR siêu nét và độ sáng tối đa đạt mức khó tin, lên tới 1200 nits cho nội dung HDR. Trước mắt bạn là một không gian giải trí mãn nhãn, một thiết bị di động lý tưởng để giải quyết nhanh công việc với màn hình thực sự xuất sắc.",
+      "id": "8wfKSUo"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$fkjIIuLfzwYxJ5FCoEjLI.lfHFEiFaGzweVxybs.jfCY8eB1y2URm",
+      "firstname": "Vượng",
+      "lastname": "Phan",
+      "gender": "Nam",
+      "streetaddress": "Thái Bình.",
+      "id": 1
+    },
+    {
+      "email": "khach@gmail.com",
+      "password": "$2a$10$SGRZyG/lvnbi75g5klIsPuX4qkXl0r8CttyAbdESVe5wZBvi4Il3S",
+      "firstname": "Trăm",
+      "lastname": "Nguyễn",
+      "gender": "Nữ",
+      "streetaddress": "Hoài Đức, Hà Nội.",
+      "id": 2
+    },
+    {
+      "email": "vuongtb@gmail.com",
+      "password": "$2a$10$FVs3z00k2qFvCicUtRymX.3EqdjHCFxxQizbHAOAGjC5AgZi7Q0/S",
+      "firstname": "vượng",
+      "lastname": "Phan Đức",
+      "gender": "Nam",
+      "streetaddress": "Hà Nội",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "1yQmzq2",
+      "name": "iPhone 1",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367090/stdymln70txc1g0o6vwk.jpg",
+      "price": "21999000",
+      "detail": "undefined"
+    },
+    {
+      "name": "Samsung Galaxy Note 20 Ultra ",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367180/nuemxucrmkkxtckczz42.jpg",
+      "price": "20990000",
+      "detail": "Chiếc Galaxy Note màn hình lớn nhất, bút S Pen thông minh nhất và những tính năng mạnh mẽ nhất đã xuất hiện. Samsung Galaxy Note 20 Ultra sẽ định nghĩa lại smartphone, thay đổi những trải nghiệm của bạn theo cách thú vị hơn bao giờ hết.",
+      "catePostId": 2,
+      "id": "lkyWzRd"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip3 5G 128GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645367243/jaompehsiw2lebznwglg.jpg",
+      "price": "23990000",
+      "detail": "Một biểu tượng thời trang, một kiệt tác của thế giới công nghệ mà ai cũng phải kinh ngạc khi nhìn thấy Samsung Galaxy Z Flip3 5G và cách mà bạn sử dụng siêu phẩm smartphone này, nơi công nghệ điện thoại màn hình gập đã mang đến những điều không tưởng.",
+      "catePostId": 2,
+      "id": "bQ07S20"
+    },
+    {
+      "name": "iPhone XS 128GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645580673/rjpxzbbuglg6nkjjfpje.jpg",
+      "price": "12345678",
+      "detail": "sản phẩm đẹp",
+      "catePostId": 1,
+      "id": "oEuhm_S"
+    },
+    {
+      "name": "Xiaomi 11 Lite 5G NE - 8GB/128GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645580850/bkd8i5kbs4axtudn1upa.png",
+      "price": "8390000",
+      "detail": "Thiết kế thanh lịch trong từng chi tiết\nXiaomi 11 Lite 5G NE ra mắt với các biến thể màu bao gồm: Trắng băng tuyết, Xanh kẹo ngọt, Hồng thanh đào và Đen trân châu. Chiếc điện thoại thông minh này cực kỳ nhẹ và mỏng như những gì Xiaomi hứa hẹn: sản phẩm có độ dày chỉ 6,8mm và nặng 158 gram. ",
+      "catePostId": 3,
+      "id": "-v3mvsc"
+    },
+    {
+      "name": "Xiaomi Redmi Note 10S",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645580908/npowigyybwbpvmg7wiyl.png",
+      "price": "5790000",
+      "detail": "Xiaomi công bố cho ra mắt Redmi Note 10S – dòng smartphone giá tầm trung đem lại chất lượng màn hình hiển thị cao, bộ bốn camera hỗ trợ chụp hình tối ưu, chipset Helio G95 và dung lượng pin lên đến 5000mAh.",
+      "catePostId": 3,
+      "id": "NgCjsPK"
+    },
+    {
+      "name": "Xiaomi Redmi 9A - 2GB/32GB",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645581048/j40awgxtp6sm8usmblbg.png",
+      "price": "2390000",
+      "detail": "Mua điện thoại di động Xiaomi Redmi 9A 2GB/32GB giá rẻ chính hãng DGW tại Hoàng Hà Mobile\n\nXiaomi là thương hiệu sản xuất điện thoại thông minh đến từ Trung Quốc. Những năm qua, thương hiệu này đang dần khẳng định vị thế của mình tại thị trường Việt Nam. Bên cạnh các mặt hàng gia dụng thông minh, công ty cũng giới thiệu những mẫu smartphone phổ biến từ phân khúc giá rẻ cho đến các mức giá tầm trung. Trong đó, Redmi 9A là chiếc smartphone giá rẻ được trang bị con chip mạnh mẽ chuyên cho người dùng chơi game. Nếu bạn đang tìm kiếm một chiếc điện thoại thông minh giá rẻ cho nhu cầu chiến game thì đừng bỏ lỡ sản phẩm này nhé. ",
+      "catePostId": 3,
+      "id": "00nTlTj"
+    },
+    {
+      "name": "Samsung Galaxy A52",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1645581139/idvonf0ujokhqroiphqf.png",
+      "price": "7850000",
+      "detail": "Thiết kế tinh tế, màn hình Full HD+\nGalaxy A52 sở hữu một thiết kế sang trọng với các góc được bo tròn nhẹ nhàng. Kích thước khá mỏng tạo cảm giác nhẹ nhàng mà vẫn chắc chắn khi cầm trên tay. Thay vì sử dụng mặt lưng bóng như đa số smartphone hiện nay, Galaxy A52 lại chọn mặt lưng lì tinh tế, ít bám dấu vân tay. Về màu sắc, sản phẩm này sẽ có các màu thời thượng tương tự như người tiền nhiệm. Đó là màu hồng, đen, trắng, xanh. ",
+      "catePostId": 2,
+      "id": "U_wBhbZ"
+    },
+    {
+      "name": "Máy tính bảng",
+      "img": "http://res.cloudinary.com/dev7lem1d/image/upload/v1686145748/wc27miiwsvx0khx9eiyu.jpg",
+      "price": "21332123",
+      "detail": "dfsdfdsg",
+      "list": "",
+      "id": "EQ6h5Gw"
+    }
+  ],
+  "catePosts": [
+    {
+      "name": "Iphone",
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "id": 2
+    },
+    {
+      "name": "Xioami",
+      "id": 3
+    }
+  ]
+}
